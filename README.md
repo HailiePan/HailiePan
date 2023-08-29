@@ -2,7 +2,7 @@
  * Author  hailie.pan
  * Date  2023-08-25 11:34:16
  * LastEditors  hailie.pan
- * LastEditTime  2023-08-29 15:58:45
+ * LastEditTime  2023-08-29 16:17:51
  * Description  file content
 -->
 
@@ -17,6 +17,8 @@
 #### 工作中的问题总结
 
 - UE4 与 react 项目对接
+- axios 封装
+- 状态管理工具
 
 #### 项目模板相关
 
